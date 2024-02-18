@@ -14,7 +14,7 @@ jobs:
 
       env:
         Greeting: Dear
-        testvar: value-2
+        
 
       steps:
       - name: print-values-of-env-vars
